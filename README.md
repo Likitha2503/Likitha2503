@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Likitha2503
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html and css
 - 📫 How to reach me likithawa2020@gmail.com
 
 <!---
